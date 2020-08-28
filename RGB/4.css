@@ -1,0 +1,143 @@
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/selectors.css");
+
+@keyframes RGB_TEXT {
+	0% {
+		color: var(--C1)
+	}
+
+	26% {
+		color: var(--C2)
+	}
+
+	52% {
+		color: var(--C3)
+	}
+
+	78% {
+		color: var(--C4)
+	}
+
+	to {
+		color: var(--C1)
+	}
+}
+
+@keyframes RGB_BG {
+	0% {
+		background: var(--C1)
+	}
+
+	26% {
+		background: var(--C2)
+	}
+
+	52% {
+		background: var(--C3)
+	}
+
+	78% {
+		background: var(--C4)
+	}
+
+	to {
+		background: var(--C1)
+	}
+}
+
+@keyframes RGB_BG-SHADOW {
+	0% {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1)
+	}
+
+	26% {
+		background: var(--C2);
+		box-shadow: 0 0 5px var(--C2)
+	}
+
+	52% {
+		background: var(--C3);
+		box-shadow: 0 0 5px var(--C3)
+	}
+
+	78% {
+		background: var(--C4);
+		box-shadow: 0 0 5px var(--C4)
+	}
+
+	to {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1)
+	}
+}
+
+@-webkit-keyframes RGB_TEXT {
+	0% {
+		color: var(--C1)
+	}
+
+	26% {
+		color: var(--C2)
+	}
+
+	52% {
+		color: var(--C3)
+	}
+
+	78% {
+		color: var(--C4)
+	}
+
+	to {
+		color: var(--C1)
+	}
+}
+
+@-webkit-keyframes RGB_BG {
+	0% {
+		background: var(--C1)
+	}
+
+	26% {
+		background: var(--C2)
+	}
+
+	52% {
+		background: var(--C3)
+	}
+
+	78% {
+		background: var(--C4)
+	}
+
+	to {
+		background: var(--C1)
+	}
+}
+
+@-webkit-keyframes RGB_BG-SHADOW {
+	0% {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1)
+	}
+
+	26% {
+		background: var(--C2);
+		box-shadow: 0 0 5px var(--C2)
+	}
+
+	52% {
+		background: var(--C3);
+		box-shadow: 0 0 5px var(--C3)
+	}
+
+	78% {
+		background: var(--C4);
+		box-shadow: 0 0 5px var(--C4)
+	}
+
+	to {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1)
+	}
+}

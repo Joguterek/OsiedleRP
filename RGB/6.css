@@ -1,0 +1,195 @@
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/selectors.css");
+
+@keyframes RGB_TEXT {
+	0% {
+		color: var(--C1)
+	}
+
+	18% {
+		color: var(--C2)
+	}
+
+	35% {
+		color: var(--C3)
+	}
+
+	53% {
+		color: var(--C4)
+	}
+
+	71% {
+		color: var(--C5)
+	}
+
+	88% {
+		color: var(--C6)
+	}
+
+	to {
+		color: var(--C1)
+	}
+}
+
+@keyframes RGB_BG {
+	0% {
+		background: var(--C1)
+	}
+
+	18% {
+		background: var(--C2)
+	}
+
+	35% {
+		background: var(--C3)
+	}
+
+	53% {
+		background: var(--C4)
+	}
+
+	71% {
+		background: var(--C5)
+	}
+
+	88% {
+		background: var(--C6)
+	}
+
+	to {
+		background: var(--C1)
+	}
+}
+
+@keyframes RGB_BG-SHADOW {
+	0% {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1)
+	}
+
+	18% {
+		background: var(--C2);
+		box-shadow: 0 0 5px var(--C2)
+	}
+
+	35% {
+		background: var(--C3);
+		box-shadow: 0 0 5px var(--C3)
+	}
+
+	53% {
+		background: var(--C4);
+		box-shadow: 0 0 5px var(--C4)
+	}
+
+	71% {
+		background: var(--C5);
+		box-shadow: 0 0 5px var(--C5)
+	}
+
+	88% {
+		background: var(--C6);
+		box-shadow: 0 0 5px var(--C6)
+	}
+
+	to {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1)
+	}
+}
+
+@-webkit-keyframes RGB_TEXT {
+	0% {
+		color: var(--C1)
+	}
+
+	18% {
+		color: var(--C2)
+	}
+
+	35% {
+		color: var(--C3)
+	}
+
+	53% {
+		color: var(--C4)
+	}
+
+	71% {
+		color: var(--C5)
+	}
+
+	88% {
+		color: var(--C6)
+	}
+
+	to {
+		color: var(--C1)
+	}
+}
+
+@-webkit-keyframes RGB_BG {
+	0% {
+		background: var(--C1)
+	}
+
+	18% {
+		background: var(--C2)
+	}
+
+	35% {
+		background: var(--C3)
+	}
+
+	53% {
+		background: var(--C4)
+	}
+
+	71% {
+		background: var(--C5)
+	}
+
+	88% {
+		background: var(--C6)
+	}
+
+	to {
+		background: var(--C1)
+	}
+}
+
+@-webkit-keyframes RGB_BG-SHADOW {
+	0% {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1)
+	}
+
+	18% {
+		background: var(--C2);
+		box-shadow: 0 0 5px var(--C2)
+	}
+
+	35% {
+		background: var(--C3);
+		box-shadow: 0 0 5px var(--C3)
+	}
+
+	53% {
+		background: var(--C4);
+		box-shadow: 0 0 5px var(--C4)
+	}
+
+	71% {
+		background: var(--C5);
+		box-shadow: 0 0 5px var(--C5)
+	}
+
+	88% {
+		background: var(--C6);
+		box-shadow: 0 0 5px var(--C6)
+	}
+
+	to {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1)
+	}
+}

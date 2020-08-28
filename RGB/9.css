@@ -1,0 +1,273 @@
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/selectors.css");
+
+@keyframes RGB_TEXT {
+	0% {
+		color: var(--C1);
+	}
+
+	12% {
+		color: var(--C2);
+	}
+
+	24% {
+		color: var(--C3);
+	}
+
+	36% {
+		color: var(--C4);
+	}
+
+	48% {
+		color: var(--C5);
+	}
+
+	61% {
+		color: var(--C6);
+	}
+
+	73% {
+		color: var(--C7);
+	}
+
+	85% {
+		color: var(--C8);
+	}
+
+	97% {
+		color: var(--C9);
+	}
+
+	to {
+		color: var(--C1);
+	}
+}
+
+@-webkit-keyframes RGB_TEXT {
+	0% {
+		color: var(--C1);
+	}
+
+	12% {
+		color: var(--C2);
+	}
+
+	24% {
+		color: var(--C3);
+	}
+
+	36% {
+		color: var(--C4);
+	}
+
+	48% {
+		color: var(--C5);
+	}
+
+	61% {
+		color: var(--C6);
+	}
+
+	73% {
+		color: var(--C7);
+	}
+
+	85% {
+		color: var(--C8);
+	}
+
+	97% {
+		color: var(--C9);
+	}
+
+	to {
+		color: var(--C1);
+	}
+}
+
+@keyframes RGB_BG {
+	0% {
+		background: var(--C1);
+	}
+
+	12% {
+		background: var(--C2);
+	}
+
+	24% {
+		background: var(--C3);
+	}
+
+	36% {
+		background: var(--C4);
+	}
+
+	48% {
+		background: var(--C5);
+	}
+
+	61% {
+		background: var(--C6);
+	}
+
+	73% {
+		background: var(--C7);
+	}
+
+	85% {
+		background: var(--C8);
+	}
+
+	97% {
+		background: var(--C9);
+	}
+
+	to {
+		background: var(--C1);
+	}
+}
+
+@-webkit-keyframes RGB_BG {
+	0% {
+		background: var(--C1);
+	}
+
+	12% {
+		background: var(--C2);
+	}
+
+	24% {
+		background: var(--C3);
+	}
+
+	36% {
+		background: var(--C4);
+	}
+
+	48% {
+		background: var(--C5);
+	}
+
+	61% {
+		background: var(--C6);
+	}
+
+	73% {
+		background: var(--C7);
+	}
+
+	85% {
+		background: var(--C8);
+	}
+
+	97% {
+		background: var(--C9);
+	}
+
+	to {
+		background: var(--C1);
+	}
+}
+
+@keyframes RGB_BG-SHADOW {
+	0% {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1);
+	}
+
+	12% {
+		background: var(--C2);
+		box-shadow: 0 0 5px var(--C2);
+	}
+
+	24% {
+		background: var(--C3);
+		box-shadow: 0 0 5px var(--C3);
+	}
+
+	36% {
+		background: var(--C4);
+		box-shadow: 0 0 5px var(--C4);
+	}
+
+	48% {
+		background: var(--C5);
+		box-shadow: 0 0 5px var(--C5);
+	}
+
+	61% {
+		background: var(--C6);
+		box-shadow: 0 0 5px var(--C6);
+	}
+
+	73% {
+		background: var(--C7);
+		box-shadow: 0 0 5px var(--C7);
+	}
+
+	85% {
+		background: var(--C8);
+		box-shadow: 0 0 5px var(--C8);
+	}
+
+	97% {
+		background: var(--C9);
+		box-shadow: 0 0 5px var(--C9);
+	}
+
+	to {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1);
+	}
+}
+
+@-webkit-keyframes RGB_BG-SHADOW {
+	0% {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1);
+	}
+
+	12% {
+		background: var(--C2);
+		box-shadow: 0 0 5px var(--C2);
+	}
+
+	24% {
+		background: var(--C3);
+		box-shadow: 0 0 5px var(--C3);
+	}
+
+	36% {
+		background: var(--C4);
+		box-shadow: 0 0 5px var(--C4);
+	}
+
+	48% {
+		background: var(--C5);
+		box-shadow: 0 0 5px var(--C5);
+	}
+
+	61% {
+		background: var(--C6);
+		box-shadow: 0 0 5px var(--C6);
+	}
+
+	73% {
+		background: var(--C7);
+		box-shadow: 0 0 5px var(--C7);
+	}
+
+	85% {
+		background: var(--C8);
+		box-shadow: 0 0 5px var(--C8);
+	}
+
+	97% {
+		background: var(--C9);
+		box-shadow: 0 0 5px var(--C9);
+	}
+
+	to {
+		background: var(--C1);
+		box-shadow: 0 0 5px var(--C1);
+	}
+}
