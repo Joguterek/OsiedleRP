@@ -6,9 +6,10 @@
     --themeColor1: #36D1DC;
     --themeColor2: #5B86E5;
     --themeColor3: #ff0000;
-    --themeColor4: #ffffff;
-    --themeColor6: #ffffff;
-    --themeColor7: #ffffff;
+    --themeColor4: #001aff;
+    --themeColor6: #ac0000;
+    --themeColor7: #9b4d4d;
+    --themeColor9: #00f120;
     --customFont: 'Open sans', sans-serif;
     --homeImage: url('https://i.imgur.com/oOKwCVJ.png');
     --homeImageSize: cover;
@@ -479,13 +480,13 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 
 @keyframes pulseVoiceChat {
     0% {
-        box-shadow: 0 0 0 0 var(--themeColor1)
+        box-shadow: 0 0 0 0 var(--themeColor9)
     }
     50% {
-        box-shadow: 0 0 10px 0 var(--themeColor1)
+        box-shadow: 0 0 10px 0 var(--themeColor9)
     }
     100% {
-        box-shadow: 0 0 0 0 var(--themeColor1)
+        box-shadow: 0 0 0 0 var(--themeColor9)
     }
 }
 
