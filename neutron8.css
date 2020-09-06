@@ -10,6 +10,8 @@
     --themeColor6: #ac0000;
     --themeColor7: #9b4d4d;
     --themeColor9: #00f120;
+    --themeColor11: #ff00c8;
+    --themeColor11: #ffffff;
     --customFont: 'Open sans', sans-serif;
     --homeImage: url('https://i.imgur.com/oOKwCVJ.png');
     --homeImageSize: cover;
@@ -1155,7 +1157,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
     height: 100%;
     width: 5px;
     border-radius: 4px 0 0 4px;
-    background: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    background: linear-gradient(to bottom right, var(--themeColor10), var(--themeColor11));
     z-index: 1
 }
 
