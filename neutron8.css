@@ -7,6 +7,8 @@
     --themeColor2: #5B86E5;
     --themeColor3: #ff0000;
     --themeColor4: #ffffff;
+    --themeColor6: #ffffff;
+    --themeColor7: #ffffff;
     --customFont: 'Open sans', sans-serif;
     --homeImage: url('https://i.imgur.com/oOKwCVJ.png');
     --homeImageSize: cover;
@@ -361,7 +363,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     height: 100%;
     width: 20px;
     border-radius: 4px 0 0 4px;
-    background: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    background: linear-gradient(to bottom right, var(--themeColor6), var(--themeColor7));
     -webkit-mask: linear-gradient(to right, #000, Transparent);
     opacity: .6;
     z-index: 0
