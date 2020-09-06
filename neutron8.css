@@ -2,7 +2,6 @@
 @import url(https://codedotspectra.github.io/themes/core/badges.css);
 @import url(https://codedotspectra.github.io/themes/core/custom-font.css);
 @import url(https://codedotspectra.github.io/themes/core/hljs.css);
-
 :root {
     --themeColor1: #36D1DC;
     --themeColor2: #5B86E5;
@@ -1904,7 +1903,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 }
 
 .dim-1l4L4y span {
-    color: #fff!important
+    color: rgb(255, 0, 0)!important
 }
 
 .calendarPicker-2yf6Ci .react-datepicker,
