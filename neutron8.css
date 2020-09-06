@@ -851,7 +851,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     position: absolute;
     left: 0;
     top: calc(50% - 1px);
-    background-image: linear-gradient(to right, transparent, var(--themeColor1), var(--themeColor2), transparent);
+    background-image: linear-gradient(to right, transparent, var(--themeColor13), var(--themeColor14), transparent);
     z-index: -1
 }
 
