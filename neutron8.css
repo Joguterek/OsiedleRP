@@ -11,7 +11,7 @@
     --themeColor7: #9b4d4d;
     --themeColor9: #00f120;
     --themeColor11: #ff00c8;
-    --themeColor11: #ffffff;
+    --themeColor12: #ffffff;
     --customFont: 'Open sans', sans-serif;
     --homeImage: url('https://i.imgur.com/oOKwCVJ.png');
     --homeImageSize: cover;
@@ -1209,13 +1209,13 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 #bd-settings-sidebar .ui-tab-bar-header::before,
 .side-8zPYf6 .header-2RyJ0Y::before {
     left: 0;
-    box-shadow: 80px 50px 30px 0 var(--themeColor2)
+    box-shadow: 80px 50px 30px 0 var(--themeColor11)
 }
 
 #bd-settings-sidebar .ui-tab-bar-header::after,
 .side-8zPYf6 .header-2RyJ0Y::after {
     right: 0;
-    box-shadow: -80px 50px 30px 0 var(--themeColor1)
+    box-shadow: -80px 50px 30px 0 var(--themeColor12)
 }
 
 .bd-addon-list .bd-addon-card,
