@@ -174,13 +174,13 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 
 @keyframes pulseVoiceChat {
     0% {
-        box-shadow: 0 0 0 0 var(--themeColor1)
+        box-shadow: 0 0 0 0 var(--themeColor4)
     }
     50% {
-        box-shadow: 0 0 10px 0 var(--themeColor1)
+        box-shadow: 0 0 10px 0 var(--themeColor4)
     }
     100% {
-        box-shadow: 0 0 0 0 var(--themeColor1)
+        box-shadow: 0 0 0 0 var(--themeColor4)
     }
 }
 
