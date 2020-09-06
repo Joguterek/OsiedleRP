@@ -166,7 +166,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 
 .iconBadge-2wi9r4.participating-NBGDkr {
     background-color: var(--themeColor4);
-    background-image: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    background-image: linear-gradient(to bottom right, var(--themeColor4));
     animation-name: pulseVoiceChat;
     animation-duration: 1.5s;
     animation-timing-function: ease-in-out;
@@ -703,7 +703,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: var(--themeColor2);
+    background-color: var(--themeColor4);
     opacity: .15;
     border-radius: 4px;
     pointer-events: none
