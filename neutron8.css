@@ -1,12 +1,19 @@
-/*@import url(https://codedotspectra.github.io/themes/mini-themes/settingsIcons.css);
+@import url(https://codedotspectra.github.io/themes/mini-themes/settingsIcons.css);
 @import url(https://codedotspectra.github.io/themes/core/badges.css);
 @import url(https://codedotspectra.github.io/themes/core/custom-font.css);
-@import url(https://codedotspectra.github.io/themes/core/hljs.css);*/
-
+@import url(https://codedotspectra.github.io/themes/core/hljs.css);
 :root {
     --themeColor1: #36D1DC;
     --themeColor2: #5B86E5;
     --themeColor3: #ff0000;
+    --themeColor4: #001aff;
+    --themeColor6: #ac0000;
+    --themeColor7: #9b4d4d;
+    --themeColor9: #00f120;
+    --themeColor11: #ff00c8;
+    --themeColor12: #ffffff;
+    --themeColor13: #838383;
+    --themeColor14: #884284;
     --customFont: 'Open sans', sans-serif;
     --homeImage: url('https://i.imgur.com/oOKwCVJ.png');
     --homeImageSize: cover;
@@ -153,7 +160,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 }
 
 .expandedFolderBackground-2sPsd- {
-    background-color: rgba(0, 0, 0, .5)
+    background-color: rgba(0, 0, 0, 0.5)
 }
 
 .wrapper-21YSNc .listItem-2P_4kh .folder-21wGz3 {
@@ -165,8 +172,8 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 }
 
 .iconBadge-2wi9r4.participating-NBGDkr {
-    background-color: var(--themeColor1);
-    background-image: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    background-color: var(--themeColor4);
+    background-image: linear-gradient(to bottom right, var(--themeColor4));
     animation-name: pulseVoiceChat;
     animation-duration: 1.5s;
     animation-timing-function: ease-in-out;
@@ -175,13 +182,13 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 
 @keyframes pulseVoiceChat {
     0% {
-        box-shadow: 0 0 0 0 var(--themeColor1)
+        box-shadow: 0 0 0 0 var(--themeColor4)
     }
     50% {
-        box-shadow: 0 0 10px 0 var(--themeColor1)
+        box-shadow: 0 0 10px 0 var(--themeColor4)
     }
     100% {
-        box-shadow: 0 0 0 0 var(--themeColor1)
+        box-shadow: 0 0 0 0 var(--themeColor4)
     }
 }
 
@@ -361,7 +368,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     height: 100%;
     width: 20px;
     border-radius: 4px 0 0 4px;
-    background: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    background: linear-gradient(to bottom right, var(--themeColor6), var(--themeColor7));
     -webkit-mask: linear-gradient(to right, #000, Transparent);
     opacity: .6;
     z-index: 0
@@ -377,7 +384,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     height: 100%;
     width: 5px;
     border-radius: 4px 0 0 4px;
-    background: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    background: linear-gradient(to bottom right, var(--themeColor6), var(--themeColor7));
     z-index: 1
 }
 
@@ -477,13 +484,13 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 
 @keyframes pulseVoiceChat {
     0% {
-        box-shadow: 0 0 0 0 var(--themeColor1)
+        box-shadow: 0 0 0 0 var(--themeColor9)
     }
     50% {
-        box-shadow: 0 0 10px 0 var(--themeColor1)
+        box-shadow: 0 0 10px 0 var(--themeColor9)
     }
     100% {
-        box-shadow: 0 0 0 0 var(--themeColor1)
+        box-shadow: 0 0 0 0 var(--themeColor9)
     }
 }
 
@@ -703,7 +710,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: var(--themeColor2);
+    background-color: var(--themeColor4);
     opacity: .15;
     border-radius: 4px;
     pointer-events: none
@@ -1152,7 +1159,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
     height: 100%;
     width: 5px;
     border-radius: 4px 0 0 4px;
-    background: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    background: linear-gradient(to bottom right, var(--themeColor10), var(--themeColor11));
     z-index: 1
 }
 
@@ -1204,13 +1211,13 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 #bd-settings-sidebar .ui-tab-bar-header::before,
 .side-8zPYf6 .header-2RyJ0Y::before {
     left: 0;
-    box-shadow: 80px 50px 30px 0 var(--themeColor2)
+    box-shadow: 80px 50px 30px 0 var(--themeColor11)
 }
 
 #bd-settings-sidebar .ui-tab-bar-header::after,
 .side-8zPYf6 .header-2RyJ0Y::after {
     right: 0;
-    box-shadow: -80px 50px 30px 0 var(--themeColor1)
+    box-shadow: -80px 50px 30px 0 var(--themeColor12)
 }
 
 .bd-addon-list .bd-addon-card,
@@ -1904,7 +1911,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 }
 
 .dim-1l4L4y span {
-    color: #fff!important
+    color: rgb(255, 0, 0)!important
 }
 
 .calendarPicker-2yf6Ci .react-datepicker,
@@ -1949,7 +1956,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 }
 
 .searchResultsWrap-3-pOjs div[role=group] .channelName-wvgELL {
-    background-color: rgba(0, 0, 0, .05);
+    background-color: rgb(255, 0, 0);
     padding: 8px
 }
 
@@ -1983,7 +1990,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 
 .categoryFadeBlurple-1j72_A {
     background-color: var(--themeColor1);
-    background: linear-gradient(to right, var(--themeColor1), var(--themeColor2))!important
+    background: linear-gradient(to right, var(--themeColor13), var(--themeColor14))!important
 }
 
 .focused-1En8bG:after,
