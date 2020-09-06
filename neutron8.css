@@ -165,7 +165,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 }
 
 .iconBadge-2wi9r4.participating-NBGDkr {
-    background-color: var(--themeColor1);
+    background-color: var(--themeColor4);
     background-image: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
     animation-name: pulseVoiceChat;
     animation-duration: 1.5s;
