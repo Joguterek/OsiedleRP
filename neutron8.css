@@ -379,7 +379,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     height: 100%;
     width: 5px;
     border-radius: 4px 0 0 4px;
-    background: linear-gradient(to bottom right, var(--themeColor1), var(--themeColor2));
+    background: linear-gradient(to bottom right, var(--themeColor6), var(--themeColor7));
     z-index: 1
 }
 
