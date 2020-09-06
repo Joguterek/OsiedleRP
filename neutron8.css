@@ -2137,6 +2137,6 @@ div[aria-label=GUILD_SETTINGS] .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.it
 }
 
 .bf-toolbar .format:hover {
-    background: linear-gradient(to right, var(--themeColor1), var(--themeColor2))!important;
+    background: linear-gradient(to right, var(--themeColor13), var(--themeColor14))!important;
     color: #fff!important
 }
