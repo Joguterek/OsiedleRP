@@ -152,15 +152,15 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 }
 
 .expandedFolderBackground-2sPsd- {
-    background-color: rgba(255, 255, 255, 0.5)
+    background-color: rgba(0, 0, 0, 0.5)
 }
 
 .wrapper-21YSNc .listItem-2P_4kh .folder-21wGz3 {
-    background-color: rgba(255, 255, 255, .5)
+    background-color: rgba(0, 0, 0, .5)
 }
 
 .wrapper-21YSNc[aria-expanded=true] .listItem-2P_4kh .folder-21wGz3 {
-    background-color: rgba(255, 255, 255, 0)
+    background-color: rgba(0, 0, 0, 0)
 }
 
 .iconBadge-2wi9r4.participating-NBGDkr {
