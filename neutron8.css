@@ -773,7 +773,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     color: #e6e6e6;
     border-bottom-width: 2px;
     border-style: solid;
-    border-image: linear-gradient(to right, transparent, var(--themeColor1), var(--themeColor2), transparent) 1
+    border-image: linear-gradient(to right, transparent, var(--themeColor13), var(--themeColor14), transparent) 1
 }
 
 .membersGroup-v9BXpm::after,
