@@ -14,6 +14,7 @@
     --themeColor12: #ffffff;
     --themeColor13: #838383;
     --themeColor14: #884284;
+    --themeColor16: #ff0000;
     --customFont: 'Open sans', sans-serif;
     --homeImage: url('https://i.imgur.com/oOKwCVJ.png');
     --homeImageSize: cover;
@@ -341,7 +342,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 .wrapper-CU3qI5.muted-1NRuDm:hover .name-IbjUBS,
 .wrapper-CU3qI5:hover .icon-WnO6o2,
 .wrapper-CU3qI5:hover .name-IbjUBS {
-    color: var(--themeColor1);
+    color: var(--themeColor16);
     text-shadow: 0 1.5px 3px rgba(0, 0, 0, .75)
 }
 
