@@ -789,12 +789,12 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 
 .membersGroup-v9BXpm::before {
     left: 0;
-    box-shadow: 80px 50px 30px 0 var(--themeColor2)
+    box-shadow: 80px 50px 30px 0 var(--themeColor13)
 }
 
 .membersGroup-v9BXpm::after {
     right: 0;
-    box-shadow: -80px 50px 30px 0 var(--themeColor1)
+    box-shadow: -80px 50px 30px 0 var(--themeColor14)
 }
 
 .membersGroup-v9BXpm span {
