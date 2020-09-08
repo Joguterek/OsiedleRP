@@ -14,7 +14,9 @@
 
 /*  PLUGINS (optional)  */
 @import url("https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap");
-@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+
+/**
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css"); */
 @import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
 @import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
 
