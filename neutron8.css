@@ -856,10 +856,6 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     z-index: -1
 }
 
-.rolesList-22qj2L .role-2irmRk {
-    border-radius: 6px
-}
-
 .autocompleteArrow-Zxoy9H,
 .header-2bNvm4 {
     background-color: var(--backgroundColor)!important;
