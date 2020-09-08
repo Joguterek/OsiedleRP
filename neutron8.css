@@ -133,9 +133,9 @@ body {
     scrollbar-color: var(--backgroundColor)!important
 }
 
-::-webkit-input-placeholder,
+/*::-webkit-input-placeholder,
 body:not([class*=hljs]):not(code):not([class*=ace_]) {
-    font-family: var(--customFont)!important
+    font-family: var(--customFont)!important*/
 }
 
 .ace_editor {
