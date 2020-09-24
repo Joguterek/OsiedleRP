@@ -45,7 +45,7 @@ JOGUTEREK THEME
 
 :root {
     --theme-name: "J O G U T E R E K T H E M E S ";
-    --theme-version: "0.1";
+    --theme-version: "1.5";
     --blurple: rgb(113, 136, 217);
     --greyple: rgb(151, 168, 180);
     --blurple-sheer: rgba(114, 137, 218, 0.267);
@@ -70,7 +70,7 @@ JOGUTEREK THEME
     --idle-sheer: #faa61a44;
     /* color for idle status */
     --dnd: rgb(240, 71, 71);
-    --dnd-sheer: rgba(7, 7, 7, 0.267);
+    --dnd-sheer: rgba(240, 71, 71, 0.267);
     /* color for dnd status */
     --offline: rgb(99, 107, 117);
     --offline-sheer: rgba(99, 107, 117, 0.267);
@@ -82,6 +82,80 @@ JOGUTEREK THEME
     --streaming-sheer: rgba(100, 61, 167, 0.267);
     /* color for streaming status */
 }
+
+
+/* ==== TABLE OF CONTENTS ====
+*  ========== STATIC ==========
+*  I. App Window
+*  II. Title Bar
+*  III. Channel Area
+*     A. Channels Header
+*     B. Channel Groups and Individual Channels
+*     C. User Settings and Voice Connection
+*     D. Private Channels
+*     
+*  IV. Guilds Area
+*     A. Guilds Header
+*     B. Guild Styles
+*     C. Guild Folders
+*
+*  V. Pages
+*     A. Main Areas
+*       1. Embeds, Code Blocks, and Invites
+*       2. Login Page
+*       3. Download Discord
+*     B. Members List
+*     C. Top Bar & Typing Status
+*     D. Cards and Tiles
+*     E. Buttons, Switches, and Bars
+*     F. Change SVGs
+*
+*  VI. Top Layers
+*  VII. ScrollBars
+*
+*
+*
+*
+*  ========== MODALS AND POPOUTS ==========
+*  VIII. Menus
+*     A. Server Menu
+*     B. User Status
+*     C. Context Menu
+*     D. Dropdown Menus
+*  IX. Popouts
+*     A. User Popout
+*     B. Message Popout
+*     C. Search Popout & Results
+*     D. Attach Popout, Add Game popout
+*     E. Tooltips & Notices
+*     F. Autocomplete & Everyone Popout
+*     G. Gift Nitro and Gif Picker
+*     H. Emoji Picker
+*     I. Game Preview
+*     J. Add Roles Popout & Roles Overflow
+*     K. RTC Connection
+*     L. Stream Popout
+*     M. Follow Channel
+*     
+*  X. Modals
+*     A. User Modal
+*     B. Upload Modal 
+*     C. Join Guild Modal
+*     D. Messages Modal, Games Download Modal, Screenshare
+*     E. Incoming Call & Phone Verification
+*     F. Reactions Modal & Server Invite Modal
+*     G. Gift Modal
+*  XI. Keyframes
+*  XII. Custom CSS
+*  XIII. Plugin Optimization
+*     A. Ghost Ping
+*     B. Permissions Viewer
+*  XIV. Addon Optimization
+*     A. Custom Background Popouts
+*/
+
+
+/* I. App Window */
 
 #app-mount,
 .container-16j22k,
@@ -111,7 +185,6 @@ JOGUTEREK THEME
     top: 5px;
     left: 10px;
     color: rgb(170, 170, 170);
-    color
     display: block;
     height: 16px;
     width: fit-content;
