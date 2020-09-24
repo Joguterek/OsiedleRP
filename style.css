@@ -10,7 +10,6 @@ JOGUTEREK THEME
 /* 'HortaRegular' */
 
 @import "https://monstrousdev.github.io/themes/addons/user-tags.css";
-@import "https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css";
 
 /* @import "https://monstrousdev.github.io/themes/addons/filter.css"; */
 
@@ -82,11 +81,6 @@ JOGUTEREK THEME
     --streaming: rgb(100, 61, 167);
     --streaming-sheer: rgba(100, 61, 167, 0.267);
     /* color for streaming status */
-    --C1: rgb(130, 0, 216);
-    --C2: rgb(0, 225, 255);
-    /*Kolorek aniacji napisu OsiedleRP Designed... */
-    --time: 5s;
-    /*Czas animacji*/
 }
 
 #app-mount,
@@ -116,9 +110,8 @@ JOGUTEREK THEME
     position: absolute;
     top: 5px;
     left: 10px;
-    --C1: rgb(130, 0, 216);
-    --C2: rgb(0, 225, 255);
-    --time: 5s;
+    color: rgb(170, 170, 170);
+    color
     display: block;
     height: 16px;
     width: fit-content;
