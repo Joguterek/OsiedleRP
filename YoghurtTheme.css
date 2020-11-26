@@ -1,5 +1,5 @@
 /* Imports */
-@import "https://monstrousdev.github.io/themes/phoenix-bundle/base.css";
+@import "https://Joguterek.github.io/OsiedleRP/baza.css";
 
 
 /* Variables */
@@ -22,9 +22,10 @@
 
   .theme-dark {
     --primary-color: rgba(0,0,0,0.75);
-    --secondary-color: rgba(0,0,0,0.6);
+    --secondary-color: rgba(0, 0, 0, 0.6);
     --tertiary-color: rgba(0,0,0,0.4);
     --quaternary-color: rgba(0,0,0,0.7);
+    --color2: rgb(100, 245, 255);
   }
 
   /* Light Mode */
