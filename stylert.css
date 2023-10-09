@@ -1,0 +1,38 @@
+*{
+    background:#B5D1FB;
+  }
+ 
+  #purple {
+    position:absolute;
+    top:120;
+    left:110;
+    width: 60;
+    height: 250;
+    border-radius: 90px 90px 0 0;
+    background: #8819F6;
+  }
+  #circle{
+    position:absolute;
+    background:#230259;
+    width:60;
+    top:-30vh;
+    border-radius:50%;
+    height:60;
+  }
+  #purple2 {
+    position:absolute;
+    bottom:120;
+    right:110;
+    width: 60;
+    height: 250;
+    border-radius: 0 0 90px 90px;
+    background: #8819F6;
+  }
+  #circle2{
+    position:absolute;
+    background:#230259;
+    width:60;
+    bottom: -30vh;
+    border-radius:50%;
+    height:60;
+  }
